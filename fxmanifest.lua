@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'Weponz'
+author 'PenguScripts'
 description 'Standalone Zombie System'
 version '1.0.2'
 
